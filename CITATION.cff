@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this questionnaire, please cite it with attribution to Koaich (CC-BY 4.0)."
+title: "Encrypted-Workspace Vendor Questions"
+abstract: "A free, forkable security questionnaire: the 20 questions every workspace, messaging, or storage vendor should be able to answer — covering key custody, data access, AI, legal/transparency, breach posture, verifiability, sub-processors, and acquisition."
+type: dataset
+authors:
+  - name: "Koaich"
+    website: "https://koaich.com"
+url: "https://koaich.com/vendor-questions"
+repository: "https://github.com/koaichapp/encrypted-workspace-vendor-questions"
+license: CC-BY-4.0
+keywords:
+  - privacy
+  - security
+  - vendor assessment
+  - security questionnaire
+  - end-to-end encryption
